@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# meal_mover
-=======
 # 🚀 Auto Order Assignment System
 
 This project automates the rider assignment of delivery orders to nearby available riders using real-time geolocation, estimated travel time, and food preparation duration. It integrates Google Maps APIs, a MySQL database, and a Flask API server. The system also generates a visual map of assigned orders using Folium.
@@ -31,4 +28,4 @@ This project automates the rider assignment of delivery orders to nearby availab
 - **dotenv** – secure environment configuration
 
 
->>>>>>> 71a80be (Initial commit)
+
